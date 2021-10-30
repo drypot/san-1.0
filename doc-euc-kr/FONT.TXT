@@ -1,0 +1,307 @@
+────────────────────────────────────────
+   이글은 산에서 사용하는 자형에 대한 글입니다.
+────────────────────────────────────────
+
+   1993.8.17 일 씀
+  ─────────
+
+   산에 포함된 자형 ( 현재 한글용 55 개 , 영문용  51  개  )  중  본인이  직접
+   도안한 것은 아래 3 가지 뿐입니다. 기타  자형은  자료실의  자형들을  모아서
+   공급해 드리고 있었습니다.
+
+   한글용  sanigj.kor  ( 임꺽정체 )
+           sanhsb.kor  ( 한석봉체 )
+   영문용  san.eng     ( 임꺽정체 )
+
+   그런데, 이번에 김윤수님( 김헌수(하이텔:myname) 에게 연락 ) 께서 자형  정리
+   작업을 하셔서 여기에 쏟아진 대부분의 노력을 산에 그대로  사용합니다.  기타
+   몇가지 자형을 윤수님의 묶음에 제가 추가했습니다. 추가 내용은 아래와  같고,
+   윤수님이 자형  묶음에  포함하셨던  글을  이  글  뒷부분에  포함시켰습니다.
+   윤수님의 원래 묶음은 두루물 자료실에 있습니다.
+
+   원래  묶음에  *.han  으로  표시되었던  자형들은  산의  시스템상  *.kor  로
+   새이름지워졌습니다. 자형을 산 이외에서 사용하시려면, 산에 들어  있는  것을
+   사용하시지 말고 윤수님이 직접 공개하신 묶음을 받아 쓰시기 바랍니다.
+
+   현재 이 묶음에 포함된 자형은  제가  모두  라이브러리화  작업을  해  놓았기
+   때문에 사용자는 그냥 쓰시기만 하시면 됩니다.
+
+   추가한 자형:
+
+      한글용:   cswp.kor     포항공대2
+                hanpl.kor    필기체
+                hansoft.kor  부드러운
+
+      영문용:   ascxx.eng    ascxx
+
+   그리고 san.kor 과 sanigk.kor  이라는  화일이  있는데  이것은  완젼히  같은
+   화일입니다. 윤수님이 정리작업을 하실때 임꺽정 자형을 sanigk.han 으로  이름
+   지으셨는데, 산의 유틸리티들을 실행하기 위해서는 san.kor 이 반드시 필요하기
+   때문에 할 수 없이 2 부를 포함시켰습니다.
+
+   아래 글은 윤수님의 설명 원문입니다. 참고로 아래 윤수님이  지적하셨던  산의
+   자형 처리 문제는 새롭게 바꾸었으므로 이제 괜찮습니다.
+
+
+   덧말> 1994.9.25 일
+  ──────────
+
+   윤수님이 하이텔에 자신의 아이디를 사용중이십니다.
+   pisces 입니다.
+
+   폰트 꾸러미 두번째 판이 하이텔 자료실에 올라와 있습니다.
+   이름은 fonts002.zip 입니다. 윤수님의 아이디나 화일 이름으로
+   검색하시기 바랍니다.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+
+FONTS COLLECTION (92.11.29)                                        by Kim Yunsoo
+------------------------------------------------------------------------------
+--
+------------------------------------------------------------------------------
+--
+
+      언젠가...
+
+      박규현님이  산에서 도깨비 글꼴을 쓸 수 있다며  제가 앤드를 위해 모았던
+    글꼴을 말씀하시는 걸 보았읍니다.  그리고, 지금의 산에서는 그 글꼴들에 이
+    름을 나름대로 붙여서 기록시켜 두었더군요.  그것에 저희 형(김헌수)이 제게
+    '너도 너의 글꼴들에 이름을 붙여보라'고 말했죠.
+      1, 2년 사이에 제가 모아두었고 만들고 다듬었던 글꼴들이 몇몇 프로그램에
+    서 쓰인다는 것을 알게 된 것은 제게는 기쁜 일이었읍니다. 그러나, 상상밖의
+    이름으로 제 글꼴을 맞이하게 된 것이 몹시 당황스러운 일이었기 때문에 저도
+    형의 말에 '나도 그럴 생각'이라는 대답을 하게 되었읍니다.
+
+      일단 정리를 하기로 한 이상 전처럼 떠오르는데로 이름을 질 수도 없고, 제
+    것이 아닌 글꼴들도 있어서 그것도 쉬운 일은 아니었읍니다. 그래서, 결국 많
+    은 글꼴들의 이름이 새로이 바뀌게 되었읍니다.
+      그리고,  글꼴들 자체에도 손을 보면서, 문자의 순서가 잘못 되어 있는 것,
+    모양이 잘못 되어 있는 것 등을 모두 고치고,  비워져야 할 자리에 채워져 있
+    던 글자들도 모두 지워서 지금은 모든 것이 표준 문자 코드에 딱 들어맞는 글
+    꼴 모음을 만들었읍니다.
+
+      지금은 전에 형을 통해서, 또는 김광찬 님의 헬로우를 통해서 올려졌던, 그
+    리고 산 에디터에 기록되어 있는,  품바 한글과 한글 리스터 htype 등에서 쓰
+    였던 글꼴들보다 조금은 더 나아진 이 글꼴들이  여러분에게 유용하게 쓰여질
+    수 있길 바라며 지루한 이야기를 마칩니다.
+
+------------------------------------------------------------------------------
+--
+------------------------------------------------------------------------------
+--
+<참고>
+
+   1. 삼보 특수 문자에서 0번, (126번,) 127번 글자는 사용하지 마십시오.
+
+   2. 산 등의 일부 프로그램에서는 도깨비 형식의 글꼴을 사용하는데 있어 다소
+      잘못이 있기 때문에 일부 글자가 이상하게 보일 수도 있읍니다.
+
+   3. 글꼴의 출처는  제가 그 글꼴을 얻은 프로그램  또는 사람으로 적었으므로
+      그 글꼴의 원래 출처와는 다를 수도 있읍니다. 이런 경우 옳은 정보를  주
+      시기 바랍니다.
+
+   4. 본인의 글꼴이 아닌 것은 그 명칭이 원래와 다소 차이가 있을 수도 있읍니
+      다. 이런 경우 옳은 정보를 주시기 바랍니다.
+
+   5. 삼보 특수 문자 코드를 가장 정확히 따르고 있는 글꼴들입니다.
+
+------------------------------------------------------------------------------
+--
+<주의 사항> - '#', '*', '+'표가 붙어있는 글꼴에 한 함
+
+   1. 제가 만든 글꼴의 화일명은 바꾸지 말아 주시길 바랍니다.
+
+   2. 여기 있는 글꼴을 사용하실 때에는 출처를 밝혀 주십시오.
+
+   3. 본인의 허가 없이 상용 프로그램에서 사용하지 마십시오.
+
+------------------------------------------------------------------------------
+--
+ #: 순수 창작 글꼴
+
+ *: 다른 곳에서 힌트를 얻어 만든 글꼴
+
+ +: 다른 사람의 글꼴을 충분히 손본 글꼴
+
+ .: 다른 사람의 글꼴을 조금 다듬은 글꼴
+
+  : 다른 사람의 글꼴
+------------------------------------------------------------------------------
+--
+이름              화일명         비고                          옛 화일명
+................................................................................
+
+<한글 글꼴들>
+
+도깨비 고딕       DKBGOTH .HAN   도깨비 한글                   :DKBGOTH
+도깨비 디나루     DKBDINA .HAN   도깨비 한글
+
+---               HANSAM  .HAN   바람
+
+한석봉체         .SANHSB  .HAN   산 초기 버전                  :HSB-844
+임꺽정체         .SANIGJ  .HAN   산
+
+삼보 고딕         TGGOTH  .HAN   삼보 한글 카드                :TGCAR
+
+한글 명조체      .HANMY   .HAN   아래아 한글                   :HANGUL
+손글씨체         +HANPL2  .HAN                                 :SON4
+
+사과              APPLE   .HAN   이병도님
+흘림체           .SON3    .HAN   이병도님 제공
+---              .SON1    .HAN   이병도님 제공 (=>포항공대?)
+
+굵은체            IYG     .HAN   이야기                        :IFNT2
+이야기 삼벌식     IYGSBS  .HAN   이야기                        :ISAM
+이야기 안상수체   IYGASS  .HAN   이야기 (<>안상수체)           :IAN
+굵은체 2         +IYG2    .HAN                                 :II
+굵은체 3         +IYG_Y   .HAN                                 :I-Y
+
+태백필기체        HANSON  .HAN   태백 한글
+태백필기 2       +HANSON2 .HAN
+
+굵은 고딕         GOBO00  .HAN   TESTCOMM
+가는 고딕         GOTH00  .HAN   TESTCOMM
+보통              NORMAL  .HAN   TESTCOMM
+반명조체          MYNR00  .HAN   TESTCOMM
+굵은 장식고딕     GMBO00  .HAN   TESTCOMM
+가는 장식고딕     GMTH00  .HAN   TESTCOMM
+굵은 샘물체       SABO00  .HAN   TESTCOMM
+가는 샘물체       SATH00  .HAN   TESTCOMM
+보통 2           .NORMAL2 .HAN   TESTCOMM
+샘               .SAM     .HAN
+샘 2             +SAM2    .HAN
+장식 고딕        +GAM     .HAN
+
+한메 고딕         HMGOTH  .HAN   한메 한글                     :GOTHIC,HM-GOTH
+한메    가는체                               HMSYSTH    .HAN             한메    한글                                                                                        
+:HANME-TH,HM-THIN
+한메 본문체       HMSYS   .HAN   한메 한글                     :HANME
+한메 샘물체       HMSAM   .HAN   한메 한글                     :HM-SAM
+
+---               MY      .HAN   ???
+
+꼬마             *MINI    .HAN                                 :HMAPPLE
+기울임체         #SLEEP   .HAN
+기울임체 2       #SLEEP2  .HAN
+달리             *DALLY   .HAN   달리만듦 로고
+디나루체         *DINARU  .HAN   네모 꽉찬 고딕체              :GOTH
+명조체           *HAN     .HAN   더 세밀하게 만들어진 글꼴
+샘명조           *SAMM    .HAN                                 :SAM-M
+서기 2400        *AD24    .HAN
+스러짐체         *SLANT   .HAN
+중간 고딕        *MIDDLE  .HAN                                 :MINI
+판본체           *PANBON  .HAN                                 :OULD
+판본체 2         *PANBON2 .HAN                                 :OULD
+판본체 3         *PANBON3 .HAN                                 :HOULD
+PC체             *PC      .HAN   퍼스널컴퓨터지의 옛 로고
+파울루스         #PAULUS  .HAN
+폴               #PAUL    .HAN
+키작은체         #LOW     .HAN                                 :CL
+
+<영어 글꼴들>
+
+Mini 1           .MINI1   .ENG   김헌수 (형)
+Small            .SMALL   .ENG   김헌수 (형)
+
+San              .SAN     .ENG   산
+
+한글 Script      .HANSC   .ENG   필기체 (아래아 한글)          :PIL1
+Script 2         .HANSC2  .ENG   (굵은)                        :PIL1A
+Script 2 Thin    +HANSC2T .ENG   (가는)                        :PIL1-SCR
+
+MRol             .MROL    .ENG   Many ROLs
+
+이야기 굵은고딕  .IYGGGO  .ENG   이야기
+이야기 진로만체  .IYGJROM .ENG   이야기
+
+Normal           .NORMAL  .ENG   TESTCOMM
+Roman Normal     .RONR00  .ENG   TESTCOMM
+Roman Bold       .ROBO00  .ENG   TESTCOMM (굵은)
+Roman Thin       .ROTH00  .ENG   TESTCOMM (가는)
+Robo             .ROBO    .ENG   Roman Bold
+
+한메 Countdown   .HMCNT   .ENG   한메 한글                     :CNTDOWN
+한메 Microgramma .HMMCR   .ENG   한메 한글                     :MICROGRM
+한메 Script      .HMSCR   .ENG   한메 한글                     :SCRIPT
+한메 Standard 1  .HMSTD1  .ENG   한메 한글                     :STANDRD1
+한메 Standard 2  .HMSTD2  .ENG   한메 한글                     :STANDRD2
+한메 Default     .HMDEF   .ENG   한메 한글                     :HANME
+한메             +HM_Y    .ENG                                 :HANME-Y
+Microgramma 2    +HMMCR_Y .ENG                                 :MCRGRM-Y
+Standard 3       .HMSTD3  .ENG                                 :HM-STD
+
+AD 2400          *AD24    .ENG   AD 2400 (글꼴 높이: 8도트)
+AD 2400.10       *AD24_10 .ENG   AD 2400 (글꼴 높이: 10도트)   :AD24
+Big              *BIG     .ENG
+Bold             *BOLD    .ENG
+Bold Normal      *BOLDNR  .ENG
+Byte             *BYTE    .ENG
+Byte 10          *BYTE10  .ENG                                 :BYTE
+Count            *COUNT   .ENG
+Eart             #EART    .ENG   (글꼴 높이: 8도트)
+Eart 10          #EART10  .ENG   (글꼴 높이: 10도트)           :EART
+Flow             *FLOW    .ENG   (글꼴 높이: 8도트)
+Flow 10          *FLOW10  .ENG   (글꼴 높이: 10도트)           :FLOW
+Inbold           #INBOLD  .ENG
+Roman Large      *ROMAN_L .ENG                                 :BIG
+Little           #LITTLE  .ENG
+Middle           *MIDDLE  .ENG
+Mini             *MINI    .ENG
+Royal            *ROYAL   .ENG   Royal II DLX (Apple II+ 호환)
+Script           *SCR     .ENG   (가는)                        :PIL2-SCR
+Script Bold      *SCRBOLD .ENG   (굵은)                        :PIL2
+Semi-Roman       *SEMIROM .ENG                                 :BIG
+Slant            *SLANT   .ENG
+System           *SYS     .ENG
+Utopia           *UTOPIA  .ENG                                 :GM
+X-Small          *XSMALL  .ENG
+Zeo              #ZEO     .ENG
+Zorro            #ZORRO   .ENG
+
+<특수 문자의 글꼴들>
+
+Bold             .BOLD    .SPC   김헌수 (형)
+
+이야기           +IYG_Y   .SPC   표준 삼보 코드에 맞춰 재구성  :I-Y
+
+한메             .HM      .SPC   한메 한글                     :HANME
+
+Bold 2           *BOLD2   .SPC   파이프 형 괘선
+Bold 3           *BOLD3   .SPC   부드럽고 굵은 괘선
+Gray 1           #GRAY1   .SPC                                 :YY
+Gray 2           *GRAY2   .SPC                                 :GRAY
+Normal           *NORMAL  .SPC                                 :SYS
+Shadow           *SHADOW  .SPC   그림자체                      :S-BLOCK
+System           *SYS     .SPC   기본 형태
+KS-line          *KSLINE  .SPC   KS그래픽 문자형 괘선          :YG
+Smooth           #SMOOTH  .SPC   부드러운 괘선                 :YUN
+Zorro            #ZORRO   .SPC                                 :YY2,PIL
+
+------------------------------------------------------------------------------
+--
+<같이 사용하는 글꼴의 예>
+
+   1. 명조체              Roman Normal
+
+   2. 샘                  Robo
+
+   3. 서기 2400           AD 2400.10
+
+   4. 스러짐체            Slant
+
+   5. 임꺽정체            San
+
+   6. 이야기 굵은체       이야기 굵은 고딕
+
+------------------------------------------------------------------------------
+--
+                                                                - 공주에서 -
+------------------------------------------------------------------------------
+--
+
+
