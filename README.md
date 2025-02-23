@@ -4,7 +4,7 @@
 이곳은 산의 소스 코드 리포입니다.
 
 브라우저 도스 에뮬레이터에서 실행해 보시려면.
-<<https://drypot.github.io/san-1.0-js-dos>
+<https://drypot.github.io/san-1.0-js-dos>
 
 브라우저 도스 에뮬레이터 번들 리포.
 <https://github.com/drypot/san-1.0-js-dos>
